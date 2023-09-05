@@ -55,7 +55,7 @@ To contribute to your or others' code on GitHub:
 - **Wiki:** It enables the creation of code documentation.
 - **Pulse and Graphs:** These features provide various statistics for better insights.
 
-### Fascinating Facts
+### Fascinating Facts.
 
 - GitHub boasts 14 million users and over 35 million repositories.
 - The entirety of Linux's codebase is hosted on GitHub.
